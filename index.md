@@ -8,10 +8,7 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
-<br><br>
-My name is Mohammad Ferry Husnil Arif. You can call me Ferry.
-<br>
+My name is Mohammad Ferry Husnil Arif. You can call me Ferry. Nice to meet you!
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
