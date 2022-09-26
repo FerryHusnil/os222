@@ -49,3 +49,8 @@ ZCZC W03 5 L41 TXT/mylog.txt related.
 ZCZC W03 2 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W03 2 L45 TXT/SHA256SUM related
 ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 20 L22 Linux CLI including tar, etc.
+ZCZC W03 5 L41 TXT/mylog.txt related.
+ZCZC W03 2 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W03 2 L45 TXT/SHA256SUM related
+ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
