@@ -26,3 +26,14 @@ Introduction of cryptography that is a method of protecting information and comm
 
 3. [Protection in Operating System](https://www.javatpoint.com/protection-in-operating-system#:~:text=What%20is%20Protection%20in%20Operating,is%20referred%20to%20as%20protection.)<br>
 Protection is a mechanism that controls the access of programs, processes, or users to the resources defined by a computer system. Protection is very important because It helps to ensure data security, process security, and program security against unauthorized user access or program access.
+
+## Week 03
+
+1. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+Simplified explanation about linux directories structure and their function.
+
+2. [An introduction to Linux filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
+If you want to know more about linux filesystems, this website is there for you.
+
+3. [File System in Operating System (OS)](https://www.scaler.com/topics/file-systems-in-os/)<br>
+Explaining about filesystem in OS and how they actually stored in physical storage.
