@@ -61,3 +61,10 @@ ZCZC W04 50 L05 Quiz related including studying
 ZCZC W04 30 L40 TXT/ related in general.
 ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 200 L02 ZOOM meetings related
+ZCZC W05 80 L01 SCELE/Discord related
+ZCZC W05 30 L13 Assignment #03
+ZCZC W05 50 L05 Quiz related including studying
+ZCZC W05 30 L40 TXT/ related in general.
+ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
